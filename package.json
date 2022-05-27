@@ -1,0 +1,19 @@
+{
+  "name": "@mozeyinedu/vtpass",
+  "version": "1.1.2",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inedumozey/vtpass_sandbox.git"
+  }
+}
